@@ -216,7 +216,7 @@ To add auxiliary links to your site (in the upper right on all pages), add it to
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+    - "//github.com/wish343/just-the-docs"
 ```
 
 ---
